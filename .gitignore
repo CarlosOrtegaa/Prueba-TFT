@@ -1,0 +1,24 @@
+# Visual Studio: estado local y compilación
+.vs/
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+TestResults/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.pubxml.user
+# Temporales y bloqueos de Access
+*.tmp
+*.temp
+*.bak
+*.log
+*.laccdb
+*.ldb
+~$*
+# Paquetes restaurables
+packages/
+# Base de datos de ejemplo incluida
+!PruebaTFT/App_Data/PruebaTFT.accdb
